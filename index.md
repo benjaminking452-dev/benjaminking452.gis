@@ -8,7 +8,7 @@ My degree is what got me hooked. Again and again, it showed me that *where* some
 
 ## Projects
 
-[![Cyclone Freddy map thumbnail](images/freddy-map.png)](freddy.html)
+[![Cyclone Freddy map thumbnail](Freddy_flood_exposure_A3.png)](freddy.html)
 
 **[Cyclone Freddy: who was in the flood's path?](freddy.html)**
 Rebuilding a university summative assessment (QGIS) in ArcGIS Pro, mapping population exposure in Mozambique and Malawi using 2023 WorldPop data.
