@@ -1,8 +1,8 @@
 # Cyclone Freddy: who lives in the flood's path?
 
-![A3 map sheet showing flood exposure in Mozambique and Malawi](images/freddy-map.png)
+![A3 map sheet showing flood exposure in Mozambique and Malawi](Freddy_flood_exposure_A3.png)
 
-[Download the full-resolution A3 map (PDF)](images/freddy-map.pdf)
+[Download the full-resolution A3 map (PDF)](Freddy_flood_exposure_A3.pdf) · [Download the full methodology (Word)](Methodology%20Write-up.docx)
 
 ## The question
 
